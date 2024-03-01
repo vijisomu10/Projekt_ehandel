@@ -1,0 +1,47 @@
+{
+    "order_id": 100937,
+    "customer_id": 6479,
+    "order_details": [
+        {
+            "product_id": 18,
+            "product_name": "GourmetSelectionOlivolja",
+            "product_type": "Matvaror",
+            "price_type": "Literpris",
+            "price": 1095,
+            "quantity": 1
+        },
+        {
+            "product_id": 17,
+            "product_name": "BrightViewSkrivbordslampa",
+            "product_type": "Kontorsmaterial",
+            "price_type": "Styckpris",
+            "price": 782,
+            "quantity": 2
+        },
+        {
+            "product_id": 3,
+            "product_name": "JavaB\u00f6nor",
+            "product_type": "Matvaror",
+            "price_type": "Kilopris",
+            "price": 1428,
+            "quantity": 5
+        },
+        {
+            "product_id": 62,
+            "product_name": "TropicalMistKokosvatten",
+            "product_type": "Drycker",
+            "price_type": "Literpris",
+            "price": 910,
+            "quantity": 6
+        },
+        {
+            "product_id": 25,
+            "product_name": "SilverStreamVattenkokare",
+            "product_type": "K\u00f6ksapparater",
+            "price_type": "Styckpris",
+            "price": 639,
+            "quantity": 4
+        }
+    ],
+    "order_time": "03/01/2024-22:23:15"
+}
