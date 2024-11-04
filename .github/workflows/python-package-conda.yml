@@ -22,11 +22,6 @@ jobs:
       run: |
         conda env update --file environment.yml --name base
 
-          # Add any Node.js-dependent steps here, if needed
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'
     - name: Lint with flake8
       run: |
         conda install flake8
